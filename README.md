@@ -1,2 +1,2 @@
-# CA2021s
-https://vincentetn.github.io/CA2021s/
+# ca2021s
+https://vincentetn.github.io/ca2021s/
